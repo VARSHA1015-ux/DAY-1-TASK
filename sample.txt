@@ -1,0 +1,3 @@
+NLTK is a leading platform for building Python programs to work with human language data. 
+It provides easy-to-use interfaces to over 50 corpora.
+wrappers for industrial-strength NLP libraries, and an active discussion forum.
