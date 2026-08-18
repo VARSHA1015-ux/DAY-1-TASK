@@ -39,3 +39,17 @@ Attend atleast one </p>
 [git-hub] ["https://github.com")<br>
 [git-hub] ["https://github.com" "Click title")<br>
 <mark> This is example for highlithing text </mark>
+<a>  heef ="www.google.com"> click here to go google </a>
+# community Cleanup event<br>
+## Objective <br>
+###### Organize a neighourhood creaning to improve the local enviroment<br>
+## Schedule<br>
+|Title   | Activity |
+  
+|9.00 am | Registration  |
+| --- | --- |
+|9.30    | Safety Brefing|
+|10.00 am| Cleanup begins|
+|12.00 pm| Refreashments |
+# Volunteer Checklist<chr>
+Creating Dropdown<br>
