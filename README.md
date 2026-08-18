@@ -21,4 +21,21 @@ II item-4<br>
 :---:center algin<br>
   ---: right align<br>
 creating drop down
--[]
+<details>
+  < summary>click for hidden content</summary>
+-Hidden content goes here...
+</details>
+# Example: club Guide<br>
+####  Photography clip guide
+##### About the guide
+#### The Photography club helps members learn photography techiques,share ideas and <bot>
+#### Membership<br>
+<p>
+open to all students
+Attend atleast one
+<p>
+open to all students 
+Attend atleast one </p>
+[git-hub] ["https://github.com")<br>
+[git-hub] ["https://github.com" "Click title")<br>
+<mark> This is example for highlithing text </mark>
