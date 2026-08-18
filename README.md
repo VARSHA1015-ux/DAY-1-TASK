@@ -55,6 +55,7 @@ Attend atleast one </p>
 # Volunteer Checklist<chr>
 Creating Dropdon<br>
 <Details></Details>
-:happy:
--[ ] hello
--[ ] hai
+
+- [ ]
+- [x]
+
