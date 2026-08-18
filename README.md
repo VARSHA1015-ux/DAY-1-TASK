@@ -52,4 +52,6 @@ Attend atleast one </p>
 |10.00 am| Cleanup begins|
 |12.00 pm| Refreashments |
 # Volunteer Checklist<chr>
-Creating Dropdown<br>
+Creating Dropdon<br>
+<Details></Details>
+:happy:
